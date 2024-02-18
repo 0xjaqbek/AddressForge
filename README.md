@@ -43,7 +43,7 @@ To use AddressForge, you need to:
 
 ### Installation
 
-1. Clone this repository: `git clone https://github.com/Grandpa1001/AddressForge.git`
+1. Clone this repository: `git clone [https://github.com/olek/AddressForge.git](https://github.com/olekmorawski/degenhack.git)`
 2. Navigate to the project directory: `cd address-forge`
 3. Install frontend dependencies: `npm install`
 
