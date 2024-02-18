@@ -1,6 +1,6 @@
 <img src="http://zkgreeter.j.pl/AddresForgeLogo-removebg-preview.png" alt="AddresForge logo">
 
-AddressForge is a web app that lets you create Ethereum smart contracts at specific addresses with leading zeros or custom patterns. This can lower your gas costs or improve your address aesthetics.
+AddressForge is a Remix.IDE plug-in that lets you create Ethereum smart contracts at specific addresses with leading zeros or custom patterns. This can lower your gas costs or improve your address aesthetics.
 
 ## Features
 
