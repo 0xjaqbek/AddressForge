@@ -26,7 +26,7 @@ To use AddressForge, you need to:
 
 - <img src="https://expressjs.com/images/favicon.png" alt="Express.js Logo" height="35"> [Express.js](https://expressjs.com/) - A fast, unopinionated, minimalist web framework for Node.js.
 - 
-- <img src="https://remix.ethereum.org/icon.png" alt="Remix IDE Logo" height="35"> Remix IDE - Remix IDE is an open-source, integrated development environment for Ethereum, enabling the writing, testing, and deployment of smart contracts in Solidity and other blockchain languages.
+- <img src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" alt="Remix IDE Logo" height="35"> Remix IDE - Remix IDE is an open-source, integrated development environment for Ethereum, enabling the writing, testing, and deployment of smart contracts in Solidity and other blockchain languages.
 
 
 - <img src="https://cryptologos.cc/logos/golem-network-tokens-glm-logo.png" alt="Golem Logo" height="35"> [Golem Network](https://golem.network/)  Golem Network for the decentralized computing power.
